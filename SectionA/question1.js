@@ -1,4 +1,4 @@
-// ----Q1: Arithmetic & Modulus-----
+//-----Q1 Arithmetic & Modulus----
 console.log("-----Q1-----");
 const price = 45;
 const quantity = 4;

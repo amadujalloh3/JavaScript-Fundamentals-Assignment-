@@ -8,4 +8,3 @@ marketBasket.unshift("Salt"); // [Salt, Pepper, Rice, Palm Oil]
 marketBasket.shift(); // removes Salt -> [Pepper, Rice, Palm Oil]
 console.log(marketBasket);
 console.log("Remaining elements: Pepper, Rice and Palm Oil");
-
